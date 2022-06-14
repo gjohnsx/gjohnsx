@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <tr>
   <td align="center" width="20%">
   <span><b><center>SQL</center></b></span> 
-  <img height=65px src="https://img.icons8.com/ios/50/undefined/sql.png" style='background: #fff'/> 
+  <img height=65px src="https://spng.subpng.com/20190328/cyr/kisspng-microsoft-azure-sql-database-microsoft-sql-server-sql-introduction-5c9d9410a849f0.9153212015538309286893.jpg" style='background: #fff'/> 
   </td>
 
   <td align="center" width="20%">
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
   <td align="center" width="20%">
   <span><b><center>CSS</center></b></span> 
-  <img height=65px src="https://img.icons8.com/ios/50/undefined/css.png" style='background: #fff' />
+  <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
   </td>
 </tr>
 
