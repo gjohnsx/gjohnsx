@@ -95,10 +95,10 @@ ____
 <ul>
   <li>Building portfolio projects with React</li>
   <li>Working on Buildspace web3 projects</li>
-</ul
+</ul>
 🌱 I’m currently learning ...
   <ul>
-  <li>Fullstackopen</li>
-  <li>Scrimba</li>
-  <li>ExecuteProgram</li>
-</ul
+    <li>Fullstackopen</li>
+    <li>Scrimba</li>
+    <li>ExecuteProgram</li>
+  </ul>
