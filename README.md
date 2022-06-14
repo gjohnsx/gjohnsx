@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gjohnsx/gjohnsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -92,3 +90,15 @@ ____
 </p>
 
 ____
+  
+🔭 I’m currently working on ...
+<ul>
+  <li>Building portfolio projects with React</li>
+  <li>Working on Buildspace web3 projects</li>
+</ul
+🌱 I’m currently learning ...
+  <ul>
+  <li>Fullstackopen</li>
+  <li>Scrimba</li>
+  <li>ExecuteProgram</li>
+</ul
