@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <tr>
   <td align="center" width="20%">
   <span><b><center>SQL</center></b></span> 
-  <img height=65px src="https://img.icons8.com/ios/50/undefined/sql.png"/> 
+  <img height=65px src="https://img.icons8.com/ios/50/undefined/sql.png" style='background: #fff'/> 
   </td>
 
   <td align="center" width="20%">
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
   <td align="center" width="20%">
   <span><b><center>CSS</center></b></span> 
-  <img height=65px src="https://img.icons8.com/ios/50/undefined/css.png"/>
+  <img height=65px src="https://img.icons8.com/ios/50/undefined/css.png" style='background: #fff' />
   </td>
 </tr>
 
