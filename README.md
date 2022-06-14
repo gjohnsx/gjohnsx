@@ -94,7 +94,7 @@ ____
 🔭 I’m currently working on ...
 <ul>
   <li>Building portfolio projects with React</li>
-  <li>Working on Buildspace web3 projects</li>
+  <li>Buildspace web3 projects</li>
 </ul>
 🌱 I’m currently learning ...
   <ul>
